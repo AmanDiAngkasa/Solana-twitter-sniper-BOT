@@ -49,13 +49,6 @@ And purchases token with the sol amount you defined.
     npm start
     ```
 
-# 💬 Contact Me
-
-If you have any question or something, feel free to reach out me anytime via telegram
-<br>
-#### 🌹 You're always welcome 🌹
-
-Telegram: [@joke004](https://t.me/joke004) <br>
 
 ## 💰 Support Me with Cryptocurrency
 
