@@ -49,7 +49,6 @@ And purchases token with the sol amount you defined.
     npm start
     ```
 
-
 ## 💰 Support Me with Cryptocurrency
 
 | Network | Wallet Address |
